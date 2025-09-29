@@ -1,4 +1,9 @@
 
+
+
+
+
+
 // Tableau des autoformations avec leurs compétences associées
 const formations = [
   { nom: "HTML & CSS", code: "C1" },
@@ -24,3 +29,18 @@ for (let i = 0; i < formations.length; i++) {
 }
 
 console.log("Ton score est : " + score + " / " + formations.length );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
